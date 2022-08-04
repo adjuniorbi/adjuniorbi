@@ -3,7 +3,7 @@
 </div>
 ## Bem-Vindo, grato por sua visita !
 
-<div align="height">
+<div>
   <a href="https://github.com/adjuniorbi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adjuniorbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjuniorbi&layout=compact&langs_count=7&theme=dark"/>
