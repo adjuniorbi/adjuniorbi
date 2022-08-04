@@ -3,10 +3,10 @@
 </div>
 ## Bem-Vindo, grato por sua visita !
 
-<div>
+<div alingt="right">
   <a href="https://github.com/adjuniorbi">
-  <img  alingt="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=adjuniorbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img alingt="right" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjuniorbi&layout=compact&langs_count=7&theme=dark"/>
+  <img alingt="100%" src="https://github-readme-stats.vercel.app/api?username=adjuniorbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img alingt="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjuniorbi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="adjuniorbi-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
