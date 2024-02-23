@@ -1,6 +1,6 @@
 ## Faaaala Cientistas, Ademar Aqui!
 <div align="100%">
-<img alingt="100%" src="https://drive.google.com/uc?id=1-280nncWuraiEucxJJY78ix1shkMaleu"/>
+<img alingt="100%" src=""/>
 </div>
 
 <div>
