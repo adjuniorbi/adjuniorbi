@@ -14,6 +14,7 @@
   <img align="center" alt="adjuniorbi-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="adjuniorbi-jupyter" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="adjuniorbi-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="adjuniorbi-streamlit" height="30" width="40"src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KuEUnwBqavEA_S2KyHuhqEQbd6mkBlkj0Q&s)" />
           
                
         
